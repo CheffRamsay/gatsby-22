@@ -1,7 +1,7 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://medipriva.herokuapp.com",
+    "contentApiKey": "b311101caf8cd8cdc1ea3f0e23"
   },
   "production": {
     "apiUrl": "https://gatsby.ghost.io",
